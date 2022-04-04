@@ -1,0 +1,42 @@
+[
+  {
+    "key": "AlisVeriseBasla",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.TextView[6]",
+    "androidType": "xpath"
+  },
+  {
+    "key": "KategoriSayfaGiris",
+    "androidValue": "com.ozdilek.ozdilekteyim:id/tv_startShoppingStore",
+    "androidType": "id"
+  },
+  {
+    "key": "KategoriKadinSecimi",
+    "androidValue": "com.ozdilek.ozdilekteyim:id/tv_startShoppingStore",
+    "androidType": "xpath"
+  },
+  {
+    "key": "KadinSecimiPantolon",
+    "androidValue": "com.ozdilek.ozdilekteyim:id/tv_startShoppingStore",
+    "androidType": "id"
+  },
+  {
+    "key": "KadinSecimiPantolon",
+    "androidValue": "com.ozdilek.ozdilekteyim:id/tv_startShoppingStore",
+    "androidType": "id"
+  },
+  {
+    "key": "UrunDetaySayfasınaGit",
+    "androidValue": "com.ozdilek.ozdilekteyim:id/tv_startShoppingStore",
+    "androidType": "id"
+  },
+  {
+    "key": "FavorilerButonunaTikla",
+    "androidValue": "com.ozdilek.ozdilekteyim:id/tv_startShoppingStore",
+    "androidType": "id"
+  },
+  {
+    "key": "GirisYapButonunaTikla",
+    "androidValue": "com.ozdilek.ozdilekteyim:id/tv_startShoppingStore",
+    "androidType": "id"
+  }
+]

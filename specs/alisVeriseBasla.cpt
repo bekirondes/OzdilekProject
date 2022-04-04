@@ -1,0 +1,12 @@
+Created by testinium on 4/3/2022
+
+This is a concept file with following syntax for each concept.
+
+
+# Alısverise basla butonununa bas
+* "7" saniye kadar bekle
+* Id "com.ozdilek.ozdilekteyim:id/tv_startShoppingStore" li elementi bul ve tıkla
+* "3" saniye kadar bekle
+
+
+

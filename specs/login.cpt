@@ -1,0 +1,27 @@
+Created by testinium on 4/4/2022
+
+This is a concept file with following syntax for each concept.
+
+
+
+# Email Adresini Gir
+* "2" saniye kadar bekle
+* "com.ozdilek.ozdilekteyim:id/etEposta" adres ile giris yap
+
+
+# Email Sifresini Gir
+* "2" saniye kadar bekle
+*  "com.ozdilek.ozdilekteyim:id/etPassword" ile giris yap
+* "2" saniye kadar bekle
+* Id "com.ozdilek.ozdilekteyim:id/ivBack" li elementi bul ve tıkla
+* "2" saniye kadar bekle
+
+
+
+# Geri Butonu ile geri git
+* "2" saniye kadar bekle
+* Id "com.ozdilek.ozdilekteyim:id/ivBack" li elementi bul ve tıkla
+* "2" saniye kadar bekle
+
+
+

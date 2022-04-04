@@ -1,0 +1,16 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+log4j:WARN No appenders could be found for logger (io.grpc.netty.shaded.io.netty.util.internal.logging.InternalLoggerFactory).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+{"logLevel":"debug","message":"gauge-java took 662milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 662"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 58604"}
+{"logLevel":"info","message":"Listening on port:58604"}
+Java HotSpot(TM) 64-Bit Server VM warning: INFO: os::commit_memory(0x000000008fd00000, 37748736, 0) failed; error='The paging file is too small for this operation to complete' (DOS error/errno=1455)
+#
+# There is insufficient memory for the Java Runtime Environment to continue.
+# Native memory allocation (mmap) failed to map 37748736 bytes for G1 virtual space
+# An error report file with more information is saved as:
+# C:\Users\testinium\IdeaProjects\OzdilekProject\hs_err_pid1216.log

@@ -1,0 +1,60 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+log4j:WARN No appenders could be found for logger (io.grpc.netty.shaded.io.netty.util.internal.logging.InternalLoggerFactory).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+{"logLevel":"debug","message":"gauge-java took 627milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 627"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 49797"}
+{"logLevel":"info","message":"Listening on port:49797"}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'BasePage.swipeUp' and 'BasePage.swipeUp'"}
+{"logLevel":"debug","message":"Found Sayfayı aşağı doğru kaydır in current project scope."}
+{"logLevel":"debug","message":"Comparing 'BasePage.randomProduct' and 'BasePage.randomProduct'"}
+{"logLevel":"debug","message":"Found {} rastgele bir ürün seçilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'BasePage.clickByid' and 'BasePage.clickByid'"}
+{"logLevel":"debug","message":"Found Id {} li elementi bul ve tıkla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'BasePage.clickByxpath' and 'BasePage.clickByxpath'"}
+{"logLevel":"debug","message":"Found Xpath {} li elementi bul ve tıkla. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'BasePage.findByElementEndClick' and 'BasePage.findByElementEndClick'"}
+{"logLevel":"debug","message":"Found {} elementin sayfada görünür olduğunu kontrol et in current project scope."}
+{"logLevel":"debug","message":"Comparing 'BasePage.emailSend' and 'BasePage.emailSend'"}
+{"logLevel":"debug","message":"Found {} ile giriş yap in current project scope."}
+{"logLevel":"debug","message":"Comparing 'BasePage.setLogger' and 'BasePage.setLogger'"}
+{"logLevel":"debug","message":"Found Log - 1 çalışıyor in current project scope."}
+{"logLevel":"debug","message":"Comparing 'BasePage.waitForSecond' and 'BasePage.waitForSecond'"}
+{"logLevel":"debug","message":"Found {} saniye kadar bekle in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\tSayfayı aşağı doğru kaydır : public void swipeUp()"}
+{"logLevel":"debug","message":"\t{} ile giriş yap : public void emailSend(String email)"}
+{"logLevel":"debug","message":"\t{} rastgele bir ürün seçilir : public void randomProduct(String product)"}
+{"logLevel":"debug","message":"\tXpath {} li elementi bul ve tıkla. : public void clickByxpath(String xpath)"}
+{"logLevel":"debug","message":"\tId {} li elementi bul ve tıkla : public void clickByid(String id)"}
+{"logLevel":"debug","message":"\t{} saniye kadar bekle : public void waitForSecond(int second) throws InterruptedException"}
+{"logLevel":"debug","message":"\tLog - 1 çalışıyor : public void setLogger()"}
+{"logLevel":"debug","message":"\t{} elementin sayfada görünür olduğunu kontrol et : public void findByElementEndClick(String id)"}
+OzDilekteyim Uygulamasi Local Alanda Baslatiliyor 
+Apr 04, 2022 2:13:54 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+{"logLevel":"debug","message":"Executing '{} saniye kadar bekle' using 'class BasePage.waitForSecond"}
+{"logLevel":"debug","message":"Executing 'Id {} li elementi bul ve tıkla' using 'class BasePage.clickByid"}
+{"logLevel":"debug","message":"Executing '{} saniye kadar bekle' using 'class BasePage.waitForSecond"}
+{"logLevel":"debug","message":"Executing 'Log - 1 çalışıyor' using 'class BasePage.setLogger"}
+{"logLevel":"debug","message":"Executing 'Log - 1 çalışıyor' using 'class BasePage.setLogger"}
+{"logLevel":"debug","message":"Executing '{} saniye kadar bekle' using 'class BasePage.waitForSecond"}
+{"logLevel":"debug","message":"Executing 'Id {} li elementi bul ve tıkla' using 'class BasePage.clickByid"}
+{"logLevel":"debug","message":"Executing '{} saniye kadar bekle' using 'class BasePage.waitForSecond"}
+{"logLevel":"debug","message":"Executing '{} saniye kadar bekle' using 'class BasePage.waitForSecond"}
+{"logLevel":"debug","message":"Executing 'Xpath {} li elementi bul ve tıkla.' using 'class BasePage.clickByxpath"}
+{"logLevel":"debug","message":"Executing '{} saniye kadar bekle' using 'class BasePage.waitForSecond"}
+{"logLevel":"debug","message":"Executing 'Xpath {} li elementi bul ve tıkla.' using 'class BasePage.clickByxpath"}
+{"logLevel":"debug","message":"Executing '{} saniye kadar bekle' using 'class BasePage.waitForSecond"}
+{"logLevel":"debug","message":"Executing 'Sayfayı aşağı doğru kaydır' using 'class BasePage.swipeUp"}
+Telefon Ekran Boyutu (1440, 2872)
+Baslangic noktasi io.appium.java_client.touch.offset.PointOption@1e133120
+Bitis noktasi io.appium.java_client.touch.offset.PointOption@648fbe8d
+{"logLevel":"debug","message":"Executing '{} saniye kadar bekle' using 'class BasePage.waitForSecond"}
+{"logLevel":"debug","message":"Executing '{} rastgele bir ürün seçilir' using 'class BasePage.randomProduct"}
+{"logLevel":"debug","message":"Executing '{} saniye kadar bekle' using 'class BasePage.waitForSecond"}
